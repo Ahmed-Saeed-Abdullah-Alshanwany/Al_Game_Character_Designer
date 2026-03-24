@@ -30,10 +30,18 @@ An advanced, end-to-end pipeline demonstrating Parameter-Efficient Fine-Tuning (
 ## 🖼️ Gallery
 *(Examples of characters generated using this toolkit)*
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="image (1).webp" width="48%" alt="Base Model: Cyberpunk Warrior">
-  <img src="image (3).jpeg" width="48%" alt="LoRA Fine-Tuned: Anime Mage Face">
-</div>
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="image (1).webp" width="400" alt="Base Model: Cyberpunk Warrior"><br>
+      <sub>Base Model: Cyberpunk Warrior</sub>
+    </td>
+    <td align="center">
+      <img src="image (3).jpeg" width="400" alt="LoRA Fine-Tuned: Anime Mage Face"><br>
+      <sub>LoRA Fine-Tuned: Anime Mage Face</sub>
+    </td>
+  </tr>
+</table>
 
 ## 💻 How to Use
 1. Open either notebook in Google Colab.
